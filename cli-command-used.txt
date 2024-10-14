@@ -1,0 +1,1 @@
+neofetch --ascii "$(find /home/federico/Desktop/cosmere-terminal/ascii -name '*.txt' | shuf -n 1)" && fortune cosmerequotes
